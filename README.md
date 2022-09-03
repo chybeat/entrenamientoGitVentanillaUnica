@@ -1,4 +1,7 @@
 # Entrenamiento en git y GitHub
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Este repositorio nace por la necesidad de saber, o practicar, o recordar, o conocer o aprender trabajo colaborativo o.... muchos mas "o" acerca de git y GitHub.
 
@@ -114,3 +117,23 @@ Respuestas:
 | SASS / SCSS     | Se conoce, se usa, se aplica y se compila                                    |
 | MySQL / MariaDB | Mi amiga del alma (Maria)                                                    |
 | Markdown        | Si lo se ya que uso mucho el cheat sheet de https://www.markdownguide.org/   |
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="http://rootspyro.com"><img src="https://avatars.githubusercontent.com/u/84992671?v=4?s=100" width="100px;" alt=""/><br /><sub><b>root@spyro:~#</b></sub></a><br /><a href="#content-rootspyro" title="Content">🖋</a> <a href="#question-rootspyro" title="Answering Questions">💬</a> <a href="#mentoring-rootspyro" title="Mentoring">🧑‍🏫</a> <a href="#ideas-rootspyro" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/chybeat/entrenamientoGitVentanillaUnica/commits?author=rootspyro" title="Tests">⚠️</a> <a href="#example-rootspyro" title="Examples">💡</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
