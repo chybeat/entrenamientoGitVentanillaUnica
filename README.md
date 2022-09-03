@@ -4,6 +4,8 @@ Este repositorio nace por la necesidad de saber, o practicar, o recordar, o cono
 
 Para realizar una practica fácil y conocer los conocimientos en algunas tecnologías de los participantes, a este archivo readme cada integrante va a agregar la información que se solicita más adelante.
 
+Cada desarrollador **DEBE** crear una rama con su nombre para subir cambios (Ej: dev.andy) en las ramas de desarrolladores se examinarán los datos y se pasaran a la rama develop y por último a la rama Main.
+
 ## Propuesta:
 
 -  Propondré para este repositorio un esquema de git flow [(lee mas aqui)](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) similar al de la imagen a continuación:
@@ -20,6 +22,27 @@ Para realizar una practica fácil y conocer los conocimientos en algunas tecnolo
    1. SASS / SCSS
    1. MySQL / MariaDB
    1. Markdown
+
+##Procedimiento:
+
+El repositorio se encuentra en [https://github.com/chybeat/entrenamientoGitVentanillaUnica](https://github.com/chybeat/entrenamientoGitVentanillaUnica)
+
+1. Clonar el repositorio, pueden encontrar mas información [en esta página](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
+
+1. Generar una nueva rama en el repositorio con tu nombre
+   `git branch dev.{$tuNombreWey}`
+   (si necsitas cambiar el nombre de la rama usa `git branch -m "nombreActual" "nombreNuevo"`)
+
+1. Cambia de a esta rama
+   `git checkout dev.{$tuNombreWey}`
+
+1. Realizar el merge desde la rama main o develop a la rama donde vas a trabajar.
+   `git merge main dev.{$tuNombreWey}`
+   `git merge develop dev.{$tuNombreWey}`
+
+1. ¿No recuerdo que más entonces poco a poco les iré escribiendo mas cosas 🤪
+
+Luego de hacer cambios y haber subido todo ampliaremos las preguntas y cada uno va a subir otra información, para ello ya les daremos los comandos y como se subirá para tener la versión 2.0 de nuestra información.
 
 ---
 
