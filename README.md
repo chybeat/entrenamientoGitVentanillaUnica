@@ -1,9 +1,5 @@
 # Entrenamiento en git y GitHub
 
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
 Este repositorio nace por la necesidad de saber, o practicar, o recordar, o conocer o aprender trabajo colaborativo o.... muchos mas "o" acerca de git y GitHub.
 
 Para realizar una practica fácil y conocer los conocimientos en algunas tecnologías de los participantes, a este archivo readme cada integrante va a agregar la información que se solicita más adelante.
@@ -87,6 +83,12 @@ Ver las respuestas de:
 [@jd-apprentice](./chybeat.md)
 [@rootspyro](./rootspyro.md)
 [@chybeat](./chybeat.md)
+
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
+[![Han contribuido](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Contributors ✨
 
