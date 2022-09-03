@@ -1,0 +1,29 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "rootspyro",
+      "name": "root@spyro:~#",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84992671?v=4",
+      "profile": "http://rootspyro.com",
+      "contributions": [
+        "content",
+        "question",
+        "mentoring",
+        "ideas",
+        "test",
+        "example"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "entrenamientoGitVentanillaUnica",
+  "projectOwner": "chybeat",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
