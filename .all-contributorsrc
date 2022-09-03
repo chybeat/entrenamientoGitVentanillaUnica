@@ -27,6 +27,17 @@
       "contributions": [
         "question"
       ]
+    },
+    {
+      "login": "jd-apprentice",
+      "name": "Jonathan Dyallo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68082746?v=4",
+      "profile": "https://jonathandyallo.vercel.app/",
+      "contributions": [
+        "mentoring",
+        "ideas",
+        "test"
+      ]
     }
   ],
   "contributorsPerLine": 7,
