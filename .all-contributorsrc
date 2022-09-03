@@ -18,6 +18,26 @@
         "test",
         "example"
       ]
+    },
+    {
+      "login": "chybeat",
+      "name": "Andrés Salazar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3756112?v=4",
+      "profile": "https://github.com/chybeat",
+      "contributions": [
+        "question"
+      ]
+    },
+    {
+      "login": "jd-apprentice",
+      "name": "Jonathan Dyallo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68082746?v=4",
+      "profile": "https://jonathandyallo.vercel.app/",
+      "contributions": [
+        "mentoring",
+        "ideas",
+        "test"
+      ]
     }
   ],
   "contributorsPerLine": 7,
