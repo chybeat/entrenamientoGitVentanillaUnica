@@ -79,38 +79,13 @@ Respuestas:
 |MySQL / MariaDB|Son Bases de datos, pero no se nada mas.|
 |Markdown|¿De qué me hablas viejo?|
 
-| Usuario         | @jd-apprentice           |
-| --------------- | ------------------------ |
-| HTML            | Malisimo                 |
-| JavaScript      | Aceptable                |
-| CSS             | Mas malo que la peste    |
-| Node.js         | Aceptable                |
-| npm             | Yes                      |
-| Express         | Aceptable                |
-| SASS / SCSS     | Aceptable                |
-| MySQL / MariaDB | Que clase dep PostgreSQL |
-| Markdown        | Yes                      |
+Ver las respuestas de:
+[@jd-apprentice](./chybeat.md)
+[@rootspyro](./rootspyro.md)
+[@chybeat](./chybeat.md)
 
-| Usuario         | @rootspyro                          |
-| --------------- | ----------------------------------- |
-| HTML            | Jeje lo conozco bien                |
-| JavaScript      | Es el lenguaje que mas uso          |
-| CSS             | Me caga CSS pero le doy igual       |
-| Node.js         | Soy un semidios                     |
-| npm             | Obvio                               |
-| Express         | Si le se jajaja                     |
-| SASS / SCSS     | Negativo, no lo uso, pero podria    |
-| MySQL / MariaDB | Mi primera p@j@, no estoy orgulloso |
-| Markdown        | Si le se                            |
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
-| Usuario         | @chybeat                                                                     |
-| --------------- | ---------------------------------------------------------------------------- |
-| HTML            | Se conoce!                                                                   |
-| JavaScript      | Se conoce, y se codea allí                                                   |
-| CSS             | Npo me gusta pero se muchito                                                 |
-| Node.js         | PHP mejor para mi                                                            |
-| npm             | Es el que trae mil cosas usando node                                         |
-| Express         | Lo vi en el curso de programación basica y el curso me lo puse como radio... |
-| SASS / SCSS     | Se conoce, se usa, se aplica y se compila                                    |
-| MySQL / MariaDB | Mi amiga del alma (Maria)                                                    |
-| Markdown        | Si lo se ya que uso mucho el cheat sheet de https://www.markdownguide.org/   |
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
