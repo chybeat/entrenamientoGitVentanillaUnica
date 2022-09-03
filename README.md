@@ -4,26 +4,26 @@ Este repositorio nace por la necesidad de saber, o practicar, o recordar, o cono
 
 Para realizar una practica fácil y conocer los conocimientos en algunas tecnologías de los participantes, a este archivo readme cada integrante va a agregar la información que se solicita más adelante.
 
-Cada desarrollador **DEBE** crear una rama con su nombre para subir cambios (Ej: dev.andy) en las ramas de desarrolladores se examinarán los datos y se pasaran a la rama develop y por último a la rama Main.
+Cada desarrollador **DEBE** crear una rama con su nombre para subir cambios (Ej: dev.andy). En las ramas de desarrolladores se examinarán los datos y luego se pasaran a la rama develop, por último a la rama Main. (Esto lo manejaré yo por ahora y luego lo enseñaré)
 
 ## Propuesta:
 
--  Propondré para este repositorio un esquema de git flow [(lee mas aqui)](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) similar al de la imagen a continuación:
+1. Propondré para este repositorio un esquema de git flow [(lee mas aqui)](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) similar al de la imagen a continuación:
    ![Git Flow](https://wac-cdn.atlassian.com/dam/jcr:cc0b526e-adb7-4d45-874e-9bcea9898b4a/04%20Hotfix%20branches.svg?cdnVersion=506)
 
--  La información que debe colocar cada participante, es si **no conoce** o **si conoce y qué conoce** de cada uno de las siguientes techologías.
+2. La información que debe colocar cada participante, es si **no conoce** o **si conoce y qué conoce** de cada uno de las siguientes techologías.
 
-   1. HTML
-   1. JavaScript
-   1. CSS
-   1. Node.js
-   1. npm
-   1. Express
-   1. SASS / SCSS
-   1. MySQL / MariaDB
-   1. Markdown
+   -  HTML
+   -  JavaScript
+   -  CSS
+   -  Node.js
+   -  npm
+   -  Express
+   -  SASS / SCSS
+   -  MySQL / MariaDB
+   -  Markdown
 
-##Procedimiento:
+## Procedimiento:
 
 El repositorio se encuentra en [https://github.com/chybeat/entrenamientoGitVentanillaUnica](https://github.com/chybeat/entrenamientoGitVentanillaUnica)
 
@@ -33,16 +33,20 @@ El repositorio se encuentra en [https://github.com/chybeat/entrenamientoGitVenta
    `git branch dev.{$tuNombreWey}`
    (si necsitas cambiar el nombre de la rama usa `git branch -m "nombreActual" "nombreNuevo"`)
 
-1. Cambia de a esta rama
+1. Cambia a la nueva rama
    `git checkout dev.{$tuNombreWey}`
 
 1. Realizar el merge desde la rama main o develop a la rama donde vas a trabajar.
    `git merge main dev.{$tuNombreWey}`
    `git merge develop dev.{$tuNombreWey}`
 
-1. ¿No recuerdo que más entonces poco a poco les iré escribiendo mas cosas 🤪
+1. !!! No recuerdo que más entonces poco a poco les iré escribiendo mas cosas 🤪!!!
 
-Luego de hacer cambios y haber subido todo ampliaremos las preguntas y cada uno va a subir otra información, para ello ya les daremos los comandos y como se subirá para tener la versión 2.0 de nuestra información.
+Luego de hacer cambios y haber subido la información de conocimientos ampliaremos las preguntas y cada uno va a subir otra información, para ello ya les daremos los comandos y como se subirá para tener la versión 2.0 de "nuestra información".
+
+# Recuerden trabajar en SU propia rama!!!
+
+# Recuerden que este repositorio se realiza par pruebas, se puede dañar, pero lo ideal es que no suceda, pero si sucede es bueno revisar porqué sucedio para aprender cual fue el error!
 
 ---
 
